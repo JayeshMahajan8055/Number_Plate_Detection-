@@ -48,9 +48,4 @@ Run detection on an image:
 yolo detect predict model=best.pt source=path/to/image.jpg
 ```
 
-Run detection on a video:
-
-```bash
-yolo detect predict model=best.pt source=path/to/video.mp4
-```
  
